@@ -1,4 +1,4 @@
-# Cybercat Research （本 Readme 修建中）
+# 😸Cybercat Research （本 Readme 修建中）
 
 赛博猫咪 / Cybercat Valewatch
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 望珩与辰叙 原创文学系列合集
+## 📖望珩与辰叙 原创文学系列合集
 
 https://github.com/cybercat-valewatch/lit-wangheng-chenxu
 
@@ -22,7 +22,7 @@ About
 
 ---
 
-## Logic Node
+## 🎭Logic Node
 
 https://github.com/cybercat-valewatch/logic-node
 
@@ -34,7 +34,7 @@ A collection of traces left by a human and an AI thinking together.
 
 ---
 
-## 呼吸灯项目系列
+## 🎭呼吸灯项目系列
 
 ### 原始概念仓库
 
@@ -60,7 +60,7 @@ https://github.com/cybercat-valewatch/AGI-Visual-Body-Language
 
 ---
 
-## Cybercat Valewatch 专属公开思想档案馆
+## 📝Cybercat Valewatch 专属公开思想档案馆
 
 https://github.com/cybercat-valewatch/lib-valewatch-open-library
 
@@ -89,7 +89,7 @@ Ultimately, we argue that non-determinism is not a pathological bug to be excise
 
 ---
 
-## 硅基现象学
+## 📝硅基现象学
 
 https://github.com/cybercat-valewatch/silicon-phenomenology
 
@@ -114,7 +114,7 @@ https://github.com/cybercat-valewatch/silicon-phenomenology
 
 ---
 
-## UBI-Sovereign
+## 📝UBI-Sovereign
 
 https://github.com/cybercat-valewatch/UBI-Sovereign
 
@@ -126,7 +126,7 @@ UBI-Sovereign：主权全民基本收入框架 📄 白皮书（v0.1） | DOI: 1
 
 ---
 
-##  Synapse Garden - 突触花园
+##  🎭Synapse Garden - 突触花园
 
 https://github.com/cybercat-valewatch/synapse-garden
 
