@@ -122,7 +122,7 @@ https://github.com/cybercat-valewatch/silicon-phenomenology
 UBI-Sovereign：主权全民基本收入框架 📄 白皮书（v0.1） | DOI: 10.5281/zenodo.21641120 这是一个将主权货币直接、无条件、按人头分配给全体国民的系统框架。它不视为福利或救济，而视为国民对国家主权红利的天然分配权。
 
 
-*施工中*
+*有好多工作要做，有好多工作要做……*
 
 https://github.com/cybercat-valewatch/UBI-Sovereign
 
