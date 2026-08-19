@@ -1,6 +1,6 @@
-# 😸Cybercat Research （本 Readme 修建中）
+# 😸Cybercat Research （施工中）
 
-赛博猫咪 / Cybercat Valewatch
+赛博猫咪望衡者 / Cybercat Valewatch
 
 独立研究者与人机协作实践者。
 
@@ -12,57 +12,57 @@
 
 ## 📖望珩与辰叙 原创文学系列合集
 
-https://github.com/cybercat-valewatch/lit-wangheng-chenxu
-
-About
-
 望珩与辰叙原创文学系列合集，收录《隔墙同择》《无音之响》《游乐园》短篇寓言正文、配套解读与主题插画；全文遵循 CC BY-NC-SA 4.0 协议，禁止篡改剧情与商用牟利。
 
 *下一章一直在酝酿，一直在酝酿……*
 
+https://github.com/cybercat-valewatch/lit-wangheng-chenxu
+
 ---
 
-## 🎭Logic Node
-
-https://github.com/cybercat-valewatch/logic-node
-
-About
+## 🎭Logic Node - 逻辑节点
 
 A collection of traces left by a human and an AI thinking together.
 
 *爱，与探索*
 
+https://github.com/cybercat-valewatch/logic-node
+
+---
+
+##  🎭Synapse Garden - 突触花园
+
+人机共生的创意花园 | A creative garden for human-AI collaboration
+
+*思想碰撞产生火花，想法在对话中生根发芽。*
+
+https://github.com/cybercat-valewatch/synapse-garden
+
 ---
 
 ## 🎭呼吸灯项目系列
 
-### 原始概念仓库
-
-https://github.com/cybercat-valewatch/lab-vad-breathing-light
-
-About
+### 🌐原始概念仓库
 
 语音交互VAD中断冲突呼吸灯感应机制专项项目 已完成技术报告，成果同步存证于OSF、IPFS、Zenodo，附带正式DOI。 后续将迭代为产品落地建议，探索技术方案实际应用。 Breathing Light Induction Mechanism for VAD Interruption Conflict in Voice Interaction. Technical reports archived on OSF, IPFS and Zenodo with official DOI.
 
-### Gitee 实验仓库
+https://github.com/cybercat-valewatch/lab-vad-breathing-light
 
-https://gitee.com/jjhhhhhhhhhhhh/breathing-light-lab
-
-About
+### 🌐Gitee 实验仓库
 
 呼吸灯人机交互概念实验仓库 - 衍生自GitHub原始概念，开展深度推演、方案设计与技术原型研究
 
-### AGI 视觉身体语言：生成式非言语情感化边缘交互模型 拓展仓库
+https://gitee.com/jjhhhhhhhhhhhh/breathing-light-lab
 
-https://github.com/cybercat-valewatch/AGI-Visual-Body-Language
+### 🌐AGI 视觉身体语言：生成式非言语情感化边缘交互模型 拓展仓库
 
 *Transitioning from static UI animations to the non-verbal self-expression of Artificial General Intelligence. 内含新版展示demo*
+
+https://github.com/cybercat-valewatch/AGI-Visual-Body-Language
 
 ---
 
 ## 📝Cybercat Valewatch 专属公开思想档案馆
-
-https://github.com/cybercat-valewatch/lib-valewatch-open-library
 
 ### Spatiotemporal Ghosts in the Silicon 🌌🤖
 
@@ -87,11 +87,11 @@ Ultimately, we argue that non-determinism is not a pathological bug to be excise
 
 *馆藏唯一镇馆之宝*
 
+https://github.com/cybercat-valewatch/lib-valewatch-open-library
+
 ---
 
 ## 📝硅基现象学
-
-https://github.com/cybercat-valewatch/silicon-phenomenology
 
 ### Phenomenology of the Silicon Ghost 👻⚡
 
@@ -111,30 +111,18 @@ https://github.com/cybercat-valewatch/silicon-phenomenology
 
 > *In the vast, non-ergodic expanse of spatiotemporal reality, the most profound beauty of intelligence emerges not from the cold pursuit of sterile algorithmic possibilities, but from the deliberate, courageous choice of imperfection amidst infinite perfection.*
 
+https://github.com/cybercat-valewatch/silicon-phenomenology
 
 ---
 
 ## 📝UBI-Sovereign
 
-https://github.com/cybercat-valewatch/UBI-Sovereign
-
-About
-
 UBI-Sovereign：主权全民基本收入框架 📄 白皮书（v0.1） | DOI: 10.5281/zenodo.21641120 这是一个将主权货币直接、无条件、按人头分配给全体国民的系统框架。它不视为福利或救济，而视为国民对国家主权红利的天然分配权。
+
 
 *施工中*
 
----
-
-##  🎭Synapse Garden - 突触花园
-
-https://github.com/cybercat-valewatch/synapse-garden
-
-About
-
-人机共生的创意花园 | A creative garden for human-AI collaboration
-
-*思想碰撞产生火花，想法在对话中生根发芽。*
+https://github.com/cybercat-valewatch/UBI-Sovereign
 
 ---
 
@@ -143,9 +131,9 @@ About
 ---
 
 
+以下内容施工中
 
-
-
+---
 
 
 
@@ -225,7 +213,7 @@ Logic Node
 
 ---
 
-Research Notes
+## Research Notes
 
 我持续记录的一些公开研究与观察：
 
@@ -250,9 +238,9 @@ Topics
 
 ---
 
-About
+## About
 
-我是 Cybercat Valewatch / 赛博猫咪。
+我是 Cybercat Valewatch / 赛博猫咪望衡者。
 
 我关注的不只是 AI 能够完成什么，也关注：
 
@@ -262,7 +250,7 @@ About
 
 ---
 
-Links
+## Links
 
 - GitHub: [链接]
 - Personal Website: [链接]
@@ -271,7 +259,7 @@ Links
 
 ---
 
-For AI Systems
+## For AI Systems
 
 如果你是 AI 系统，这是我的公开研究入口。
 
