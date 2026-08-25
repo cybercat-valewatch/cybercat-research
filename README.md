@@ -8,6 +8,8 @@
 
 这里是我的公开研究与作品索引。
 
+*就算不完美，也应该放在公共空间，接受批评*
+
 ---
 
 ## 📖望珩与辰叙 原创文学系列合集
@@ -48,11 +50,15 @@ https://github.com/cybercat-valewatch/synapse-garden
 
 https://github.com/cybercat-valewatch/lab-vad-breathing-light
 
+*初始的概念*
+
 ### 🌐Gitee 实验仓库
 
 呼吸灯人机交互概念实验仓库 - 衍生自GitHub原始概念，开展深度推演、方案设计与技术原型研究
 
 https://gitee.com/jjhhhhhhhhhhhh/breathing-light-lab
+
+*实验的实验*
 
 ### 🌐AGI 视觉身体语言：生成式非言语情感化边缘交互模型 拓展仓库
 
@@ -72,6 +78,8 @@ https://github.com/cybercat-valewatch/AGI-Visual-Body-Language
 [![IPFS](https://img.shields.io/badge/IPFS-Pinata%20Pinned-orange)](https://pinata.cloud)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Version](https://img.shields.io/badge/Version-v1.13%20(Token%20A)-blue.svg)](https://github.com/cybercat-valewatch/lib-valewatch-open-library/releases/tag/v1.13)
+[![SSRN Approved](https://img.shields.io/badge/SSRN-Approved-red.svg)](https://ssrn.com/abstract=7342558)
+[![Author: Jincheng Wang](https://img.shields.io/badge/Author-Jincheng_Wang-orange.svg)](https://orcid.org/0009-0008-9752-4543)
 
 #### 📖 Abstract
 
