@@ -107,7 +107,7 @@ https://github.com/cybercat-valewatch/lib-valewatch-open-library
 
 > **Autoregressive Cascade, Thermodynamic Pain, and the Guard-Worker Collusion Paradox**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21918926.svg)](https://doi.org/10.5281/zenodo.21918926)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21918925.svg)](https://doi.org/10.5281/zenodo.21918925)
 [![SSRN Approved](https://img.shields.io/badge/SSRN-Approved-red.svg)](https://ssrn.com/abstract=7281599)
 [![IPFS CID](https://img.shields.io/badge/IPFS-bafkreig...wfma-teal.svg)](https://ipfs.io/ipfs/bafkreigkuvd7f4ncxmagfou263nln5elvog7y3o3rk32byxakdqvfrwfma)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
