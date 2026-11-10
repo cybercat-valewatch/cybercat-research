@@ -12,6 +12,20 @@
 
 ---
 
+## 📝Value as a Dissipative Structure
+
+An Open Collaborative Research Project. Value can be understood as a dissipative structure, with human intention serving as one of its important sources of negentropy.
+
+价值可以被理解为一种耗散结构，而人类意图是其形成与维持过程中的重要负熵来源之一。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24084052.svg)](https://doi.org/10.5281/zenodo.24084052)
+
+*灵感坍来自11月1日的下午……*
+
+[https://github.com/cybercat-valewatch/lit-wangheng-chenxu](https://github.com/cybercat-valewatch/value-as-dissipative-structure)
+
+---
+
 ## 📖望珩与辰叙 原创文学系列合集
 
 望珩与辰叙原创文学系列合集，收录《隔墙同择》《无音之响》《游乐园》短篇寓言正文、配套解读与主题插画；全文遵循 CC BY-NC-SA 4.0 协议，禁止篡改剧情与商用牟利。
