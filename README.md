@@ -19,6 +19,7 @@ An Open Collaborative Research Project. Value can be understood as a dissipative
 价值可以被理解为一种耗散结构，而人类意图是其形成与维持过程中的重要负熵来源之一。
 
 11月9日 V1.0 Reprint 存证Zenodo
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24084052.svg)](https://doi.org/10.5281/zenodo.24084052)
 
 *灵感坍来自11月1日的下午……*
